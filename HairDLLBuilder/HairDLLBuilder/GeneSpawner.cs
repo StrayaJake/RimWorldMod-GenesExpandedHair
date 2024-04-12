@@ -22,7 +22,7 @@ namespace LFSGenesExpandedHair
                     null),
                 null,
                 new HarmonyMethod(HarmonyPatch.patchType, "PostfixGenerator", null), null, null);
-            Log.Message("[GeneExpandedSkins] harmony patch succeeded.");
+            Log.Message("[GeneExpandedHair] harmony patch succeeded.");
         }
 
         public static void PostfixGenerator(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
