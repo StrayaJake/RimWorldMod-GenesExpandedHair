@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    <GeneDef ParentName="GeneHairColorBase">
+        <defName>GEH_Hair_Yellowfin</defName>
+        <label>Yellowfin</label>
+        <hairColorOverride>(243, 240, 143)</hairColorOverride>
+        <selectionWeight>0.05</selectionWeight>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <randomBrightnessFactor>0</randomBrightnessFactor>
+        <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
+    </GeneDef>
+</Defs>

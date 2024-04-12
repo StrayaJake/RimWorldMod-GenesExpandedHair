@@ -1,0 +1,6 @@
+<loadFolders>
+    <v1.5>
+        <li>Versions/1.5</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+    </v1.5>
+</loadFolders>
