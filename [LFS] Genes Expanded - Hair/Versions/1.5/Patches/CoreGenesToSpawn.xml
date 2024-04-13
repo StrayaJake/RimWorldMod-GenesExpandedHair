@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationSequence">
         <operations>
             <li Class="PatchOperationAdd">
-                <xpath>Defs/LFSGenesExpandedSkin.GeneGroups[defName = "Impid"]/geneGroups </xpath>
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "Impid"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
