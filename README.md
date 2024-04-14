@@ -1,11 +1,20 @@
-![Image](https://i.imgur.com/PYPncT6.png)
-This mod introduces an expansive palette of 75 new hair colors to RimWorld.
+![RimWorld Hair Colors Mod](https://i.imgur.com/PYPncT6.png)
+This mod introduces an expansive palette of 75 new hair colours to RimWorld.
 
+![New Colours](https://imgur.com/krl2et8.png)
+Adds new colours to
+- Impid
+- Waster
+- Highmate
+
+![Mod Preview](https://i.imgur.com/j2Qa3am.png)
+[![Steam Workshop Page](https://imgur.com/tEMTam9.png)](https://steamcommunity.com/workshop/filedetails/?id=3221829785)
+
+![Support](https://i.imgur.com/Wtg1ZwF.png)
 [![Buy Me A Coffee](https://i.imgur.com/6UlYsZA.png)](https://www.buymeacoffee.com/LFStudio)
-![Image](https://i.imgur.com/IwC9ybE.png)
+![Lazy Friday Studio](https://i.imgur.com/IwC9ybE.png)
 
-![Image](https://i.imgur.com/Wtg1ZwF.png)
-Have a mod you want to be made compatible with? Ask in the comments :)
+Do you have a mod you want to be made compatible with? make a discussion :)
 
 XML and Art done by me, [Lazy Friday Studio](https://www.lazyfridaystudio.com)
 
