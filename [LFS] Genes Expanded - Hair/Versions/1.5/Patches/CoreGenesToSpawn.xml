@@ -2,28 +2,54 @@
 <Patch>
     <Operation Class="PatchOperationSequence">
         <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes/li[text()="Hair_LightOrange"]</xpath>
+            </li>
+
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "Impid"]/geneGroups </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
                             <GEH_Hair_Yellowfin>1</GEH_Hair_Yellowfin>
-                            <!-- <GES_Skin_BananaSplit>1</GES_Skin_BananaSplit>
-                            <GES_Skin_TaxiCab>1</GES_Skin_TaxiCab>
-                            <GES_Skin_GoldFish>1</GES_Skin_GoldFish>
-                            <GES_Skin_BurntOrange>1</GES_Skin_BurntOrange>
-                            <GES_Skin_Clay>1</GES_Skin_Clay>
-                            <GES_Skin_Tangerine>1</GES_Skin_Tangerine>
-                            <GES_Skin_Bubblegum>1</GES_Skin_Bubblegum>
-                            <GES_Skin_Fuchsia>1</GES_Skin_Fuchsia>
-                            <GES_Skin_Rose>1</GES_Skin_Rose>
-                            <GES_Skin_Raspberry>1</GES_Skin_Raspberry>
-                            <GES_Skin_Redfish>1</GES_Skin_Redfish>
-                            <GES_Skin_FireRed>1</GES_Skin_FireRed>
-                            <GES_Skin_MarsRed>1</GES_Skin_MarsRed>
-                            <GES_Skin_Cranberry>1</GES_Skin_Cranberry>
-                            <GES_Skin_Burgundy>1</GES_Skin_Burgundy>
-                            <GES_Skin_Merlot>1</GES_Skin_Merlot> -->
+                            <GEH_Hair_BananaSplit>1</GEH_Hair_BananaSplit>
+                            <GEH_Hair_TaxiCab>1</GEH_Hair_TaxiCab>
+
+                            <GEH_Hair_GoldFish>1</GEH_Hair_GoldFish>
+                            <GEH_Hair_Copper>1</GEH_Hair_Copper>
+                            <GEH_Hair_Sunset>1</GEH_Hair_Sunset>
+                            <GEH_Hair_MidasGold>1</GEH_Hair_MidasGold>
+
+                            <Hair_LightOrange>1</Hair_LightOrange>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "Waster"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GEH_Hair_White>1</GEH_Hair_White>
+                            <GEH_Hair_SilverShiner>1</GEH_Hair_SilverShiner>
+                            <GEH_Hair_SilverSmoke>1</GEH_Hair_SilverSmoke>
+                            <GEH_Hair_StormCloud>0.3</GEH_Hair_StormCloud>
+                            <GEH_Hair_IronOre>0.3</GEH_Hair_IronOre>
+                            <GEH_Hair_SmokeScreen>0.3</GEH_Hair_SmokeScreen>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "Highmate"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <GEH_Hair_White>1</GEH_Hair_White>
+                            <GEH_Hair_SilverShiner>1</GEH_Hair_SilverShiner>
+                            <GEH_Hair_SilverSmoke>1</GEH_Hair_SilverSmoke>
                         </Endogenes>
                     </li>
                 </value>

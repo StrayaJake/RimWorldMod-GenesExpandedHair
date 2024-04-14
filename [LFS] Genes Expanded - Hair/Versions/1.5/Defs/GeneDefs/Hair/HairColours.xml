@@ -73,7 +73,7 @@
     </GeneDef>
 
     <!-- Purple -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PaleLavender</defName>
         <label>Pale Lavender</label>
         <hairColorOverride>(227, 203, 225)</hairColorOverride>
@@ -83,7 +83,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Lilac</defName>
         <label>Lilac</label>
         <hairColorOverride>(153, 108, 165)</hairColorOverride>
@@ -93,7 +93,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Orchid</defName>
         <label>Orchid</label>
         <hairColorOverride>(192, 129, 184)</hairColorOverride>
@@ -103,7 +103,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Plum</defName>
         <label>Plum</label>
         <hairColorOverride>(135, 33, 117)</hairColorOverride>
@@ -113,7 +113,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Violet</defName>
         <label>Violet</label>
         <hairColorOverride>(146, 39, 143)</hairColorOverride>
@@ -123,7 +123,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Grape</defName>
         <label>Grape</label>
         <hairColorOverride>(82, 35, 127)</hairColorOverride>
@@ -133,7 +133,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Purple</defName>
         <label>Purple</label>
         <hairColorOverride>(54, 43, 112)</hairColorOverride>
@@ -143,7 +143,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Amethyst</defName>
         <label>Amethyst</label>
         <hairColorOverride>(113, 112, 178)</hairColorOverride>
@@ -153,7 +153,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PurpleHeart</defName>
         <label>Purple Heart</label>
         <hairColorOverride>(58, 53, 120)</hairColorOverride>
@@ -164,7 +164,7 @@
     </GeneDef>
 
     <!-- Red -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Bubblegum</defName>
         <label>Bubblegum</label>
         <hairColorOverride>(243, 148, 190)</hairColorOverride>
@@ -174,7 +174,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Fuchsia</defName>
         <label>Fuchsia</label>
         <hairColorOverride>(236, 6, 141)</hairColorOverride>
@@ -184,7 +184,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rose</defName>
         <label>Rose</label>
         <hairColorOverride>(212, 32, 43)</hairColorOverride>
@@ -194,7 +194,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Raspberry</defName>
         <label>Raspberry</label>
         <hairColorOverride>(201, 1, 108)</hairColorOverride>
@@ -204,7 +204,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Redfish</defName>
         <label>Redfish</label>
         <hairColorOverride>(239, 49, 37)</hairColorOverride>
@@ -214,7 +214,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_FireRed</defName>
         <label>Fire Red</label>
         <hairColorOverride>(239, 49, 37)</hairColorOverride>
@@ -224,7 +224,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_MarsRed</defName>
         <label>Mars Red</label>
         <hairColorOverride>(194, 44, 29)</hairColorOverride>
@@ -234,7 +234,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Cranberry</defName>
         <label>Cranberry</label>
         <hairColorOverride>(198, 8, 80)</hairColorOverride>
@@ -244,7 +244,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Burgundy</defName>
         <label>Burgundy</label>
         <hairColorOverride>(152, 1, 46)</hairColorOverride>
@@ -254,7 +254,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Merlot</defName>
         <label>Merlot</label>
         <hairColorOverride>(140, 12, 3)</hairColorOverride>
@@ -265,7 +265,7 @@
     </GeneDef>
 
     <!-- White and Black -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_White</defName>
         <label>White</label>
         <hairColorOverride>(222, 222, 222)</hairColorOverride>
@@ -275,7 +275,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SilverShiner</defName>
         <label>Silver Shiner</label>
         <hairColorOverride>(178, 183, 187)</hairColorOverride>
@@ -285,7 +285,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_GhostGrey</defName>
         <label>Ghost Grey</label>
         <hairColorOverride>(140, 155, 148)</hairColorOverride>
@@ -295,7 +295,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SilverSmoke</defName>
         <label>Silver Smoke</label>
         <hairColorOverride>(148, 155, 161)</hairColorOverride>
@@ -305,7 +305,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_TinCan</defName>
         <label>Tin Can</label>
         <hairColorOverride>(194, 183, 177)</hairColorOverride>
@@ -315,7 +315,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SmokeScreen</defName>
         <label>SmokeScreen</label>
         <hairColorOverride>(95, 96, 98)</hairColorOverride>
@@ -325,7 +325,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_ForgedSteel</defName>
         <label>ForgedSteel</label>
         <hairColorOverride>(128, 163, 183)</hairColorOverride>
@@ -335,17 +335,17 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_IronOre</defName>
         <label>Iron Ore</label>
-        <hairColorOverride>(128, 163, 183)</hairColorOverride>
+        <hairColorOverride>(106, 116, 125)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
         <randomBrightnessFactor>0</randomBrightnessFactor>
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_StormCloud</defName>
         <label>Storm Cloud</label>
         <hairColorOverride>(69, 86, 96)</hairColorOverride>
@@ -355,7 +355,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Black</defName>
         <label>Black</label>
         <hairColorOverride>(44, 44, 44)</hairColorOverride>
@@ -366,7 +366,7 @@
     </GeneDef>
 
     <!-- Brown -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rattan</defName>
         <label>Rattan</label>
         <hairColorOverride>(197, 150, 12)</hairColorOverride>
@@ -376,7 +376,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_MidasGold</defName>
         <label>MidasGold</label>
         <hairColorOverride>(241, 179, 16)</hairColorOverride>
@@ -386,7 +386,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BeesWax</defName>
         <label>Bees Wax</label>
         <hairColorOverride>(200, 140, 18)</hairColorOverride>
@@ -396,7 +396,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Sunset</defName>
         <label>Sunset</label>
         <hairColorOverride>(246, 128, 38)</hairColorOverride>
@@ -406,7 +406,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Teak</defName>
         <label>Teak</label>
         <hairColorOverride>(174, 112, 11)</hairColorOverride>
@@ -416,7 +416,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Almond</defName>
         <label>Almond</label>
         <hairColorOverride>(207, 171, 121)</hairColorOverride>
@@ -426,7 +426,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_DesertSand</defName>
         <label>Desert Sand</label>
         <hairColorOverride>(145, 109, 0)</hairColorOverride>
@@ -436,7 +436,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Copper</defName>
         <label>Copper</label>
         <hairColorOverride>(222, 122, 28)</hairColorOverride>
@@ -446,7 +446,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Brown</defName>
         <label>Brown</label>
         <hairColorOverride>(153, 72, 9)</hairColorOverride>
@@ -456,7 +456,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Chesnut</defName>
         <label>Chesnut</label>
         <hairColorOverride>(169, 76, 15)</hairColorOverride>
@@ -466,7 +466,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Chocolate</defName>
         <label>Chocolate</label>
         <hairColorOverride>(67, 26, 22)</hairColorOverride>
@@ -477,7 +477,7 @@
     </GeneDef>
 
     <!-- Green -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Kiwi</defName>
         <label>Kiwi</label>
         <hairColorOverride>(182, 219, 165)</hairColorOverride>
@@ -487,7 +487,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PeaSoup</defName>
         <label>Pea Soup</label>
         <hairColorOverride>(142, 198, 65)</hairColorOverride>
@@ -497,7 +497,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Sage</defName>
         <label>Sage</label>
         <hairColorOverride>(55, 124, 43)</hairColorOverride>
@@ -507,7 +507,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Guacamole</defName>
         <label>Guacamole</label>
         <hairColorOverride>(72, 170, 67)</hairColorOverride>
@@ -517,7 +517,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rainforest</defName>
         <label>Rainforest</label>
         <hairColorOverride>(26, 179, 115)</hairColorOverride>
@@ -527,7 +527,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_OakLeaf</defName>
         <label>Oak Leaf</label>
         <hairColorOverride>(0, 101, 59)</hairColorOverride>
@@ -537,7 +537,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Jade</defName>
         <label>Jade</label>
         <hairColorOverride>(2, 149, 143)</hairColorOverride>
@@ -547,7 +547,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Fern</defName>
         <label>Fern</label>
         <hairColorOverride>(0, 131, 100)</hairColorOverride>
@@ -557,7 +557,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Evergreen</defName>
         <label>Evergreen</label>
         <hairColorOverride>(1, 87, 62)</hairColorOverride>
@@ -567,7 +567,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Olive</defName>
         <label>Olive</label>
         <hairColorOverride>(104, 119, 24)</hairColorOverride>
@@ -577,7 +577,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_DesertCamo</defName>
         <label>DesertCamo</label>
         <hairColorOverride>(133, 124, 23)</hairColorOverride>
@@ -587,7 +587,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Taupe</defName>
         <label>Taupe</label>
         <hairColorOverride>(91, 84, 3)</hairColorOverride>
@@ -598,7 +598,7 @@
     </GeneDef>
 
     <!-- Blue -->
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Teal</defName>
         <label>Teal</label>
         <hairColorOverride>(70, 196, 211)</hairColorOverride>
@@ -608,7 +608,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Denim</defName>
         <label>Denim</label>
         <hairColorOverride>(79, 145, 205)</hairColorOverride>
@@ -618,7 +618,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_CoolMint</defName>
         <label>Cool Mint</label>
         <hairColorOverride>(1, 178, 149)</hairColorOverride>
@@ -628,7 +628,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_IslandLagoon</defName>
         <label>Island Lagoon</label>
         <hairColorOverride>(1, 177, 175)</hairColorOverride>
@@ -638,7 +638,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Bluegill</defName>
         <label>Bluegill</label>
         <hairColorOverride>(0, 105, 170)</hairColorOverride>
@@ -648,7 +648,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_BlueSuede</defName>
         <label>Blue Suede</label>
         <hairColorOverride>(19, 72, 140)</hairColorOverride>
@@ -658,7 +658,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_SummerSky</defName>
         <label>Summer Sky</label>
         <hairColorOverride>(0, 158, 221)</hairColorOverride>
@@ -668,7 +668,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_TidalPool</defName>
         <label>Tidal Pool</label>
         <hairColorOverride>(1, 90, 132)</hairColorOverride>
@@ -678,7 +678,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_MauiSurf</defName>
         <label>Maui Surf</label>
         <hairColorOverride>(1, 181, 204)</hairColorOverride>
@@ -688,7 +688,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_CoolAzul</defName>
         <label>Cool Azul</label>
         <hairColorOverride>(0, 113, 143)</hairColorOverride>
@@ -698,7 +698,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_RegalBlue</defName>
         <label>Regal Blue</label>
         <hairColorOverride>(31, 67, 138)</hairColorOverride>
@@ -708,7 +708,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_WildBlueberry</defName>
         <label>Wild Blueberry</label>
         <hairColorOverride>(1, 104, 179)</hairColorOverride>
@@ -718,7 +718,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Cobalt</defName>
         <label>Cobalt</label>
         <hairColorOverride>(0, 72, 144)</hairColorOverride>
@@ -728,7 +728,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_BlueMarlin</defName>
         <label>Blue Marlin</label>
         <hairColorOverride>(0, 81, 136)</hairColorOverride>
@@ -738,7 +738,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_Gulfstream</defName>
         <label>Gulfstream</label>
         <hairColorOverride>(0, 74, 101)</hairColorOverride>
@@ -748,7 +748,7 @@
         <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
     </GeneDef>
 
-    <GeneDef ParentName="GeneSkinColorOverride">
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GES_Skin_DeepSea</defName>
         <label>DeepSea</label>
         <hairColorOverride>(1, 85, 129)</hairColorOverride>
