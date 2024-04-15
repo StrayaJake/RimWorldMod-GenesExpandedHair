@@ -4,5 +4,6 @@
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
         <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
     </v1.5>
 </loadFolders>

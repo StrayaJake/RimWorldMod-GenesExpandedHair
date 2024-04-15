@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Nyankind"]/genes/li[text()="Hair_SnowWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Nyankind"]/genes/li[text()="Hair_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Nyankind"]/genes/li[text()="Hair_DarkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "LTS_Nyankind"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GEH_Hair_White>1</GEH_Hair_White>
+                            <GEH_Hair_Black>1</GEH_Hair_Black>
+                            <GEH_Hair_StormCloud>1</GEH_Hair_StormCloud>
+                            <GEH_Hair_IronOre>1</GEH_Hair_IronOre>
+                            <GEH_Hair_SmokeScreen>1</GEH_Hair_SmokeScreen>
+                            <GEH_Hair_TinCan>1</GEH_Hair_TinCan>
+                            <GEH_Hair_SilverSmoke>1</GEH_Hair_SilverSmoke>
+                            <GEH_Hair_SilverShiner>1</GEH_Hair_SilverShiner>
+                            <Hair_DarkBlack>1</Hair_DarkBlack>
+                            <Hair_Gray>1</Hair_Gray>
+                            <Hair_SnowWhite>1</Hair_SnowWhite>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Growler"]/genes/li[text()="Hair_SnowWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Growler"]/genes/li[text()="Hair_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Growler"]/genes/li[text()="Hair_DarkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Growler"]/genes/li[text()="Hair_InkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Growler"]/genes/li[text()="Hair_DarkBrown"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "LTS_Growler"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GEH_Hair_MidasGold>1</GEH_Hair_MidasGold>
+                            <GEH_Hair_BeesWax>1</GEH_Hair_BeesWax>
+                            <GEH_Hair_Teak>1</GEH_Hair_Teak>
+                            <GEH_Hair_Almond>1</GEH_Hair_Almond>
+                            <GEH_Hair_DesertSand>1</GEH_Hair_DesertSand>
+                            <GEH_Hair_Brown>1</GEH_Hair_Brown>
+                            <GEH_Hair_Chesnut>1</GEH_Hair_Chesnut>
+                            <GEH_Hair_Chocolate>1</GEH_Hair_Chocolate>
+                            <GEH_Hair_Rattan>1</GEH_Hair_Rattan>
+                            <GEH_Hair_White>1</GEH_Hair_White>
+                            <GEH_Hair_Black>1</GEH_Hair_Black>
+                            <GEH_Hair_StormCloud>1</GEH_Hair_StormCloud>
+                            <GEH_Hair_IronOre>1</GEH_Hair_IronOre>
+                            <GEH_Hair_SmokeScreen>1</GEH_Hair_SmokeScreen>
+                            <GEH_Hair_TinCan>1</GEH_Hair_TinCan>
+                            <GEH_Hair_SilverSmoke>1</GEH_Hair_SilverSmoke>
+                            <GEH_Hair_SilverShiner>1</GEH_Hair_SilverShiner>
+
+                            <Hair_SnowWhite>1</Hair_SnowWhite>
+                            <Hair_Gray>1</Hair_Gray>
+                            <Hair_DarkBlack>1</Hair_DarkBlack>
+                            <Hair_InkBlack>1</Hair_InkBlack>
+                            <Hair_DarkBrown>1</Hair_DarkBrown>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Lilime"]/genes/li[text()="Hair_SnowWhite"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Lilime"]/genes/li[text()="Hair_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Lilime"]/genes/li[text()="Hair_MidBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Lilime"]/genes/li[text()="Hair_DarkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="LTS_Lilime"]/genes/li[text()="Hair_InkBlack"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "LTS_Lilime"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GEH_Hair_Black>1</GEH_Hair_Black>
+                            <GEH_Hair_StormCloud>1</GEH_Hair_StormCloud>
+                            <GEH_Hair_IronOre>1</GEH_Hair_IronOre>
+                            <GEH_Hair_SmokeScreen>1</GEH_Hair_SmokeScreen>
+                            <GEH_Hair_Rose>1</GEH_Hair_Rose>
+                            <GEH_Hair_Redfish>1</GEH_Hair_Redfish>
+                            <GEH_Hair_MarsRed>1</GEH_Hair_MarsRed>
+                            <GEH_Hair_Merlot>1</GEH_Hair_Merlot>
+
+                            <Hair_SnowWhite>1</Hair_SnowWhite>
+                            <Hair_Gray>1</Hair_Gray>
+                            <Hair_MidBlack>1</Hair_MidBlack>
+                            <Hair_DarkBlack>1</Hair_DarkBlack>
+                            <Hair_InkBlack>1</Hair_InkBlack>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
