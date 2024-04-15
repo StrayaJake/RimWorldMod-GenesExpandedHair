@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "Nephilim"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GEH_Hair_Yellowfin>1</GEH_Hair_Yellowfin>
+                            <GEH_Hair_TaxiCab>1</GEH_Hair_TaxiCab>
+                            <GEH_Hair_Yellowfin>1</GEH_Hair_Yellowfin>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

@@ -31,5 +31,6 @@
         <li>Ludeon.RimWorld.Biotech</li>
         <li>Ludeon.RimWorld.Anomaly</li>
         <li>lazyfridaystudio.xenosexpanded</li>
+        <li>Sov.ElseudPathf</li>
     </loadAfter>
 </ModMetaData>

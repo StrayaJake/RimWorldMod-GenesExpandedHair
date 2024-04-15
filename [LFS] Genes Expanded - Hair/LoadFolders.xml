@@ -2,5 +2,6 @@
     <v1.5>
         <li>Versions/1.5</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
     </v1.5>
 </loadFolders>
