@@ -739,6 +739,16 @@
     </GeneDef>
 
     <GeneDef ParentName="GeneHairColorBase">
+        <defName>GEH_Hair_Blurple</defName>
+        <label>Blurple</label>
+        <hairColorOverride>(39, 54, 147)</hairColorOverride>
+        <selectionWeight>0.05</selectionWeight>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <randomBrightnessFactor>0</randomBrightnessFactor>
+        <iconPath>UI/Icon/Genes/HairColor_Icon</iconPath>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Gulfstream</defName>
         <label>Gulfstream</label>
         <hairColorOverride>(0, 74, 101)</hairColorOverride>

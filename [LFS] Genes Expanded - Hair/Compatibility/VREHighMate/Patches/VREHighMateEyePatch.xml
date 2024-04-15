@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Lowmate"]/genes/li[text()="Hair_LightBlue"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="VRE_Lowmate"]/genes/li[text()="Hair_LightTeal"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFSGenesExpandedHair.GeneGroups[defName = "VRE_Lowmate"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <GEH_Hair_DeepSea>1</GEH_Hair_DeepSea>
+                            <GEH_Hair_Gulfstream>1</GEH_Hair_Gulfstream>
+                            <GEH_Hair_BlueMarlin>1</GEH_Hair_BlueMarlin>
+                            <GEH_Hair_Blurple>1</GEH_Hair_Blurple>
+                            <GEH_Hair_Cobalt>1</GEH_Hair_Cobalt>
+                            <GEH_Hair_WildBlueberry>1</GEH_Hair_WildBlueberry>
+                            <GEH_Hair_RegalBlue>1</GEH_Hair_RegalBlue>
+                            <GEH_Hair_CoolAzul>1</GEH_Hair_CoolAzul>
+                            <GEH_Hair_MauiSurf>1</GEH_Hair_MauiSurf>
+                            <GEH_Hair_TidalPool>1</GEH_Hair_TidalPool>
+                            <GEH_Hair_SummerSky>1</GEH_Hair_SummerSky>
+                            <GEH_Hair_BlueSuede>1</GEH_Hair_BlueSuede>
+                            <GEH_Hair_Bluegill>1</GEH_Hair_Bluegill>
+                            <GEH_Hair_IslandLagoon>1</GEH_Hair_IslandLagoon>
+                            <GEH_Hair_CoolMint>1</GEH_Hair_CoolMint>
+                            <GEH_Hair_Denim>1</GEH_Hair_Denim>
+                            <GEH_Hair_Teal>1</GEH_Hair_Teal>
+                            <GEH_Hair_Lilac>1</GEH_Hair_Lilac>
+                            <GEH_Hair_PurpleHeart>1</GEH_Hair_PurpleHeart>
+                            <GEH_Hair_Amethyst>1</GEH_Hair_Amethyst>
+                            <GEH_Hair_Grape>1</GEH_Hair_Grape>
+                            <GEH_Hair_Violet>1</GEH_Hair_Violet>
+                            <GEH_Hair_White>1</GEH_Hair_White>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
