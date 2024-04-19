@@ -3,7 +3,7 @@
     <!-- Yellow -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Yellowfin</defName>
-        <label>Yellowfin</label>
+        <label>Yellowfin Hair</label>
         <hairColorOverride>(243, 240, 143)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -13,7 +13,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BananaSplit</defName>
-        <label>Banana Split</label>
+        <label>Banana Split Hair</label>
         <hairColorOverride>(254, 228, 131)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -23,7 +23,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_TaxiCab</defName>
-        <label>Taxi Cab</label>
+        <label>Taxi Cab Hair</label>
         <hairColorOverride>(255, 211, 80)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -34,7 +34,7 @@
     <!-- Orange -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_GoldFish</defName>
-        <label>Gold Fish</label>
+        <label>Gold Fish Hair</label>
         <hairColorOverride>(248, 152, 29)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -44,7 +44,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BurntOrange</defName>
-        <label>Burnt Orange</label>
+        <label>Burnt Orange Hair</label>
         <hairColorOverride>(208, 112, 28)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -54,7 +54,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Clay</defName>
-        <label>Clay</label>
+        <label>Clay Hair</label>
         <hairColorOverride>(229, 113, 30)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -64,7 +64,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Tangerine</defName>
-        <label>Tangerine</label>
+        <label>Tangerine Hair</label>
         <hairColorOverride>(245, 116, 33)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -75,7 +75,7 @@
     <!-- Purple -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PaleLavender</defName>
-        <label>Pale Lavender</label>
+        <label>Pale Lavender Hair</label>
         <hairColorOverride>(227, 203, 225)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -85,7 +85,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Lilac</defName>
-        <label>Lilac</label>
+        <label>Lilac Hair</label>
         <hairColorOverride>(153, 108, 165)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -95,7 +95,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Orchid</defName>
-        <label>Orchid</label>
+        <label>Orchid Hair</label>
         <hairColorOverride>(192, 129, 184)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -105,7 +105,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Plum</defName>
-        <label>Plum</label>
+        <label>Plum Hair</label>
         <hairColorOverride>(135, 33, 117)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -115,7 +115,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Violet</defName>
-        <label>Violet</label>
+        <label>Violet Hair</label>
         <hairColorOverride>(146, 39, 143)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -125,7 +125,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Grape</defName>
-        <label>Grape</label>
+        <label>Grape Hair</label>
         <hairColorOverride>(82, 35, 127)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -135,7 +135,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Purple</defName>
-        <label>Purple</label>
+        <label>Purple Hair</label>
         <hairColorOverride>(54, 43, 112)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -145,7 +145,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Amethyst</defName>
-        <label>Amethyst</label>
+        <label>Amethyst Hair</label>
         <hairColorOverride>(113, 112, 178)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -155,7 +155,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PurpleHeart</defName>
-        <label>Purple Heart</label>
+        <label>Purple Heart Hair</label>
         <hairColorOverride>(58, 53, 120)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -166,7 +166,7 @@
     <!-- Red -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Bubblegum</defName>
-        <label>Bubblegum</label>
+        <label>Bubblegum Hair</label>
         <hairColorOverride>(243, 148, 190)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -176,7 +176,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Fuchsia</defName>
-        <label>Fuchsia</label>
+        <label>Fuchsia Hair</label>
         <hairColorOverride>(236, 6, 141)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -186,7 +186,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rose</defName>
-        <label>Rose</label>
+        <label>Rose Hair</label>
         <hairColorOverride>(212, 32, 43)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -196,7 +196,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Raspberry</defName>
-        <label>Raspberry</label>
+        <label>Raspberry Hair</label>
         <hairColorOverride>(201, 1, 108)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -206,7 +206,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Redfish</defName>
-        <label>Redfish</label>
+        <label>Redfish Hair</label>
         <hairColorOverride>(239, 49, 37)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -216,7 +216,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_FireRed</defName>
-        <label>Fire Red</label>
+        <label>Fire Red Hair</label>
         <hairColorOverride>(239, 49, 37)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -226,7 +226,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_MarsRed</defName>
-        <label>Mars Red</label>
+        <label>Mars Red Hair</label>
         <hairColorOverride>(194, 44, 29)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -236,7 +236,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Cranberry</defName>
-        <label>Cranberry</label>
+        <label>Cranberry Hair</label>
         <hairColorOverride>(198, 8, 80)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -246,7 +246,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Burgundy</defName>
-        <label>Burgundy</label>
+        <label>Burgundy Hair</label>
         <hairColorOverride>(152, 1, 46)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -256,7 +256,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Merlot</defName>
-        <label>Merlot</label>
+        <label>Merlot Hair</label>
         <hairColorOverride>(140, 12, 3)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -267,7 +267,7 @@
     <!-- White and Black -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_White</defName>
-        <label>White</label>
+        <label>White Hair</label>
         <hairColorOverride>(222, 222, 222)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -277,7 +277,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SilverShiner</defName>
-        <label>Silver Shiner</label>
+        <label>Silver Shiner Hair</label>
         <hairColorOverride>(178, 183, 187)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -287,7 +287,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_GhostGrey</defName>
-        <label>Ghost Grey</label>
+        <label>Ghost Grey Hair</label>
         <hairColorOverride>(140, 155, 148)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -297,7 +297,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SilverSmoke</defName>
-        <label>Silver Smoke</label>
+        <label>Silver Smoke Hair</label>
         <hairColorOverride>(148, 155, 161)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -307,7 +307,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_TinCan</defName>
-        <label>Tin Can</label>
+        <label>Tin Can Hair</label>
         <hairColorOverride>(194, 183, 177)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -317,7 +317,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SmokeScreen</defName>
-        <label>SmokeScreen</label>
+        <label>SmokeScreen Hair</label>
         <hairColorOverride>(95, 96, 98)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -327,7 +327,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_ForgedSteel</defName>
-        <label>ForgedSteel</label>
+        <label>ForgedSteel Hair</label>
         <hairColorOverride>(128, 163, 183)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -337,7 +337,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_IronOre</defName>
-        <label>Iron Ore</label>
+        <label>Iron Ore Hair</label>
         <hairColorOverride>(106, 116, 125)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -347,7 +347,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_StormCloud</defName>
-        <label>Storm Cloud</label>
+        <label>Storm Cloud Hair</label>
         <hairColorOverride>(69, 86, 96)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -357,7 +357,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Black</defName>
-        <label>Black</label>
+        <label>Black Hair</label>
         <hairColorOverride>(44, 44, 44)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -368,7 +368,7 @@
     <!-- Brown -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rattan</defName>
-        <label>Rattan</label>
+        <label>Rattan Hair</label>
         <hairColorOverride>(197, 150, 12)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -378,7 +378,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_MidasGold</defName>
-        <label>MidasGold</label>
+        <label>MidasGold Hair</label>
         <hairColorOverride>(241, 179, 16)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -388,7 +388,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BeesWax</defName>
-        <label>Bees Wax</label>
+        <label>Bees Wax Hair</label>
         <hairColorOverride>(200, 140, 18)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -398,7 +398,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Sunset</defName>
-        <label>Sunset</label>
+        <label>Sunset Hair</label>
         <hairColorOverride>(246, 128, 38)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -408,7 +408,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Teak</defName>
-        <label>Teak</label>
+        <label>Teak Hair</label>
         <hairColorOverride>(174, 112, 11)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -418,7 +418,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Almond</defName>
-        <label>Almond</label>
+        <label>Almond Hair</label>
         <hairColorOverride>(207, 171, 121)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -428,7 +428,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_DesertSand</defName>
-        <label>Desert Sand</label>
+        <label>Desert Sand Hair</label>
         <hairColorOverride>(145, 109, 0)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -438,7 +438,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Copper</defName>
-        <label>Copper</label>
+        <label>Copper Hair</label>
         <hairColorOverride>(222, 122, 28)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -448,7 +448,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Brown</defName>
-        <label>Brown</label>
+        <label>Brown Hair</label>
         <hairColorOverride>(153, 72, 9)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -458,7 +458,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Chesnut</defName>
-        <label>Chesnut</label>
+        <label>Chesnut Hair</label>
         <hairColorOverride>(169, 76, 15)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -468,7 +468,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Chocolate</defName>
-        <label>Chocolate</label>
+        <label>Chocolate Hair</label>
         <hairColorOverride>(67, 26, 22)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -479,7 +479,7 @@
     <!-- Green -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Kiwi</defName>
-        <label>Kiwi</label>
+        <label>Kiwi Hair</label>
         <hairColorOverride>(182, 219, 165)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -489,7 +489,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_PeaSoup</defName>
-        <label>Pea Soup</label>
+        <label>Pea Soup Hair</label>
         <hairColorOverride>(142, 198, 65)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -499,7 +499,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Sage</defName>
-        <label>Sage</label>
+        <label>Sage Hair</label>
         <hairColorOverride>(55, 124, 43)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -509,7 +509,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Guacamole</defName>
-        <label>Guacamole</label>
+        <label>Guacamole Hair</label>
         <hairColorOverride>(72, 170, 67)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -519,7 +519,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Rainforest</defName>
-        <label>Rainforest</label>
+        <label>Rainforest Hair</label>
         <hairColorOverride>(26, 179, 115)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -529,7 +529,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_OakLeaf</defName>
-        <label>Oak Leaf</label>
+        <label>Oak Leaf Hair</label>
         <hairColorOverride>(0, 101, 59)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -539,7 +539,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Jade</defName>
-        <label>Jade</label>
+        <label>Jade Hair</label>
         <hairColorOverride>(2, 149, 143)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -549,7 +549,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Fern</defName>
-        <label>Fern</label>
+        <label>Fern Hair</label>
         <hairColorOverride>(0, 131, 100)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -559,7 +559,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Evergreen</defName>
-        <label>Evergreen</label>
+        <label>Evergreen Hair</label>
         <hairColorOverride>(1, 87, 62)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -569,7 +569,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Olive</defName>
-        <label>Olive</label>
+        <label>Olive Hair</label>
         <hairColorOverride>(104, 119, 24)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -579,7 +579,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_DesertCamo</defName>
-        <label>DesertCamo</label>
+        <label>DesertCamo Hair</label>
         <hairColorOverride>(133, 124, 23)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -589,7 +589,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Taupe</defName>
-        <label>Taupe</label>
+        <label>Taupe Hair</label>
         <hairColorOverride>(91, 84, 3)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -600,7 +600,7 @@
     <!-- Blue -->
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Teal</defName>
-        <label>Teal</label>
+        <label>Teal Hair</label>
         <hairColorOverride>(70, 196, 211)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -610,7 +610,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Denim</defName>
-        <label>Denim</label>
+        <label>Denim Hair</label>
         <hairColorOverride>(79, 145, 205)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -620,7 +620,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_CoolMint</defName>
-        <label>Cool Mint</label>
+        <label>Cool Mint Hair</label>
         <hairColorOverride>(1, 178, 149)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -630,7 +630,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_IslandLagoon</defName>
-        <label>Island Lagoon</label>
+        <label>Island Lagoon Hair</label>
         <hairColorOverride>(1, 177, 175)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -640,7 +640,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Bluegill</defName>
-        <label>Bluegill</label>
+        <label>Bluegill Hair</label>
         <hairColorOverride>(0, 105, 170)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -650,7 +650,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BlueSuede</defName>
-        <label>Blue Suede</label>
+        <label>Blue Suede Hair</label>
         <hairColorOverride>(19, 72, 140)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -660,7 +660,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_SummerSky</defName>
-        <label>Summer Sky</label>
+        <label>Summer Sky Hair</label>
         <hairColorOverride>(0, 158, 221)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -670,7 +670,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_TidalPool</defName>
-        <label>Tidal Pool</label>
+        <label>Tidal Pool Hair</label>
         <hairColorOverride>(1, 90, 132)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -680,7 +680,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_MauiSurf</defName>
-        <label>Maui Surf</label>
+        <label>Maui Surf Hair</label>
         <hairColorOverride>(1, 181, 204)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -690,7 +690,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_CoolAzul</defName>
-        <label>Cool Azul</label>
+        <label>Cool Azul Hair</label>
         <hairColorOverride>(0, 113, 143)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -700,7 +700,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_RegalBlue</defName>
-        <label>Regal Blue</label>
+        <label>Regal Blue Hair</label>
         <hairColorOverride>(31, 67, 138)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -710,7 +710,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_WildBlueberry</defName>
-        <label>Wild Blueberry</label>
+        <label>Wild Blueberry Hair</label>
         <hairColorOverride>(1, 104, 179)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -720,7 +720,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Cobalt</defName>
-        <label>Cobalt</label>
+        <label>Cobalt Hair</label>
         <hairColorOverride>(0, 72, 144)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -730,7 +730,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_BlueMarlin</defName>
-        <label>Blue Marlin</label>
+        <label>Blue Marlin Hair</label>
         <hairColorOverride>(0, 81, 136)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -740,7 +740,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Blurple</defName>
-        <label>Blurple</label>
+        <label>Blurple Hair</label>
         <hairColorOverride>(39, 54, 147)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -750,7 +750,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_Gulfstream</defName>
-        <label>Gulfstream</label>
+        <label>Gulfstream Hair</label>
         <hairColorOverride>(0, 74, 101)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
@@ -760,7 +760,7 @@
 
     <GeneDef ParentName="GeneHairColorBase">
         <defName>GEH_Hair_DeepSea</defName>
-        <label>DeepSea</label>
+        <label>DeepSea Hair</label>
         <hairColorOverride>(1, 85, 129)</hairColorOverride>
         <selectionWeight>0.05</selectionWeight>
         <displayOrderInCategory>0</displayOrderInCategory>
