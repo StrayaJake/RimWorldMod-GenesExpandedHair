@@ -13,4 +13,11 @@
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
     </v1.6>
+    <v1.7>
+        <li>Versions/1.7</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
+    </v1.7>
 </loadFolders>

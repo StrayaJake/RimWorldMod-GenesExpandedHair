@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <LFSGenesExpandedHair.GeneGroups>
+        <defName>Impid</defName>
+        <geneGroups> </geneGroups>
+    </LFSGenesExpandedHair.GeneGroups>
+
+    <LFSGenesExpandedHair.GeneGroups>
+        <defName>Waster</defName>
+        <geneGroups> </geneGroups>
+    </LFSGenesExpandedHair.GeneGroups>
+
+    <LFSGenesExpandedHair.GeneGroups>
+        <defName>Highmate</defName>
+        <geneGroups> </geneGroups>
+        <isXenoGene>true</isXenoGene>
+    </LFSGenesExpandedHair.GeneGroups>
+</Defs>
